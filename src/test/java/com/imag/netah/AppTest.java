@@ -1,4 +1,4 @@
-package com.imag.nespros;
+package com.imag.netah;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
