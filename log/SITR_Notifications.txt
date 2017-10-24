@@ -1,0 +1,1 @@
+Info, HTA_Link, BT_Voltage, BT_Location, Notification_Latency, SizeOfEvent
